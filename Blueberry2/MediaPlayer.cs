@@ -1,14 +1,10 @@
-﻿using MyToolkit.Multimedia;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Threading.Tasks;
-using Windows.Media.Core;
-using Windows.Media.Playback;
 using Windows.Storage;
 using Windows.UI.Xaml.Controls;
-using Windows.System;
 using Windows.UI.Xaml;
 
 namespace BlueberryPie
