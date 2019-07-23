@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace BlueberryPie
+namespace Blueberry2
 {
     public class Song : INotifyPropertyChanged
     {

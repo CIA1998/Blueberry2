@@ -7,7 +7,7 @@ using Windows.Storage;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml;
 
-namespace BlueberryPie
+namespace Blueberry2
 {
     /// <summary>
     ///     This is the media player class responsible for playing,pausing and resuming the specified audio

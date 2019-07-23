@@ -27976,11 +27976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enalj\\source\\repos\\Blueberry2\\Blueberry2\\Blueberry2.csproj",
+      "projectUniqueName": "C:\\Users\\enalj\\Documents\\Stenden\\C#\\Blueberry2\\Blueberry2\\Blueberry2.csproj",
       "projectName": "Blueberry2",
-      "projectPath": "C:\\Users\\enalj\\source\\repos\\Blueberry2\\Blueberry2\\Blueberry2.csproj",
+      "projectPath": "C:\\Users\\enalj\\Documents\\Stenden\\C#\\Blueberry2\\Blueberry2\\Blueberry2.csproj",
       "packagesPath": "C:\\Users\\enalj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enalj\\source\\repos\\Blueberry2\\Blueberry2\\obj\\",
+      "outputPath": "C:\\Users\\enalj\\Documents\\Stenden\\C#\\Blueberry2\\Blueberry2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

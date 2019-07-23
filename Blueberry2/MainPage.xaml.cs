@@ -1,5 +1,4 @@
 ﻿using BlueberryPie.statics;
-using Microsoft.Toolkit.Uwp.UI.Controls;
 using System;
 using System.Diagnostics;
 using Windows.Networking.BackgroundTransfer;
@@ -9,7 +8,7 @@ using Windows.UI.Xaml.Controls;
 using System.Net;
 using System.Linq;
 
-namespace BlueberryPie
+namespace Blueberry2
 {
     /// <summary>
     ///     An empty page that can be used on its own or navigated to within a Frame.
